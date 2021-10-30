@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTssFXQWe_pFBfbfrHlfeTkNX7mP3s7Gb7ZaA&usqp=CAU);
+}
+.menu{
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+}
+.menu li a{
+    text-decoration: none;
+    color:black;
+    font: 1.2em Arial;
+}
+.menu li a:hover{
+    color: deepskyblue;
+}
+.menu li {
+    width: 200px;
+    height: 100px;
+    float: left;
+}
